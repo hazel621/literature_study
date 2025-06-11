@@ -32,10 +32,12 @@ The search was performed using combinations of the following keywords:
 - "normative specification"
 - "policy enforcement"
 - "policy-to-code transformation"
-- "template-based code generation"
+- "code generation"
 - "model-driven engineering"
 - "microservice architecture"
 - "data sharing architecture"
+- “medical data sharing”
+- "healthcare data sharing"
 - "eFLINT"
 - "DPCL"
 - "XACML"
