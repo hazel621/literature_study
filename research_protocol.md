@@ -27,9 +27,9 @@ January 2013 – March 2025
 
 The search was performed using combinations of the following keywords:
 
-- "policy modeling language"
-- "policy expression"
-- "normative specification"
+
+- "normative specification syntax"
+- policy enforcement "normative specification"
 - "policy enforcement"
 - "policy-to-code transformation"
 - "code generation"
