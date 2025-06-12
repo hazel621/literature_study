@@ -29,13 +29,12 @@ The search was performed using combinations of the following keywords:
 
 
 - "normative specification syntax"
-- policy enforcement "normative specification"
 - "policy enforcement"
-- "policy-to-code transformation"
+- "data sharing framework" OR "architecture"
+- "data sharing" AND "microservice"
 - "code generation"
 - "model-driven engineering"
 - "microservice architecture"
-- "data sharing architecture"
 - “medical data sharing”
 - "healthcare data sharing"
 - "eFLINT"
